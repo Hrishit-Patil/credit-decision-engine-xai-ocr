@@ -106,6 +106,19 @@ FynXai follows a layered architecture designed for scalability and transparency:
 - **Database**: Supabase (PostgreSQL)
 
 ---
+## 📊 Dataset Used
+We used the **"Financial Credibility & Loan Decision Dataset"** to train our model.
+
+It contains 10,000 records of individuals’ financial behavior, employment details, and credit-related attributes. The dataset combines both numerical and categorical variables to simulate real-world financial profiles used in lending and credit scoring systems.
+
+The target variable, credit_score, enables both regression and classification modeling tasks.
+
+**Download Link:**
+```
+https://www.kaggle.com/datasets/hrishitpatil/financial-credibility-and-loan-decision-dataset
+```
+
+---
 
 ## 🚀 Getting Started
 
