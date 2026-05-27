@@ -1,4 +1,4 @@
-# 🧠 FynXai: Explainable Credit Decision Engine
+# 🧠 FynXai: Explainable AI Framework for Credit Scoring & Lending Decisions
 
 _A document-driven credit scoring system using OCR, machine learning, and explainable AI for transparent and reliable lending decisions._
 
